@@ -4,7 +4,7 @@ FEATURES: It is capable to determining wheather person is sitting or not by usin
 
 SWOT Analysis-Strengths, and Weakness,Opportunities Threats:
 
-Strengths . Easy to change the Temparature values . Low cost . Easy to understand . Very efficient
+Strengths .Easy to change the Temparature values . Low cost . Easy to understand . Very efficient
 
 Weakness . Hard to keep it, you can't make any alternation
 
